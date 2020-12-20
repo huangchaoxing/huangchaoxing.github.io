@@ -1,7 +1,7 @@
 ---
 title: "A Genetic Feature Selection Based Two-stream Neural Network for Anger Veracity Recognition"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-2
 date: 2020-11-18
 venue: 'The 27th International Conference on Neural Information Processing'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-63830-6_1'  

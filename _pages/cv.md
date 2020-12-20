@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 20120/10-Current: Visiting Student, Research Assistant Intern
+* 2020/10-Current: Visiting Student, Research Assistant Intern
   * Institute of Computing Technology, Chinese Academy of Sciences
 
 

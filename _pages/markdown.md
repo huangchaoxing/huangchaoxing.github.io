@@ -7,3 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
+[](https://github.com/huangchaoxing/huangchaoxing.github.io/blob/master/images/%E5%92%8C.jpg)   
+He Art Museum in Shunde, Foshan

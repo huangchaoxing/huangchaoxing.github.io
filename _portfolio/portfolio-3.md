@@ -2,7 +2,7 @@
 title: "Using Deep Feature
 Factorization in Eye-part Segmentation from
 Near Infrared Image"
-excerpt: "Research Intern Project, 2020/10 ~ 2021/01 <br/><img src='/images/event.png'>"
+excerpt: "Research Intern Project, 2020/10 ~ 2021/01 <br/><img src='/images/4.png'>"
 ---
 Deep eye-part segmentation can overfit easily since large
 scale and precise annotated dataset is not always available. One might

@@ -1,6 +1,6 @@
 ---
 title: "Event-based Human Action Recognition and Anticipation"
-excerpt: "Master Thesis Project, 2019-06 ~ 2020/07<br/><img src='/images/event.png'>"
+excerpt: "Master Thesis Project, 2019/06 ~ 2020/07<br/><img src='/images/event.png'>"
 ---
 
 Event camera is an asynchronous, high frequency vision sensor

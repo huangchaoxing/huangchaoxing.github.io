@@ -13,6 +13,5 @@ provide concept oriented ground-truth for model pre-training in eye-part
 segmentation. We examine our method on the CASIA-distance dataset
 and the results initially demonstrate the effectiveness. Further work on
 using different datasets and adopting a more 
-exible factorization tech-
-nique are required.
+exible factorization technique are required.
 

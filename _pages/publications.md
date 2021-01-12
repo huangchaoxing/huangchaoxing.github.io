@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications/Manual script"
+title: "Publications/Manualscripts"
 permalink: /publications/
 author_profile: true
 ---

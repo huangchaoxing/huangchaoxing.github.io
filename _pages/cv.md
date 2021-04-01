@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* 2020/10-Current: Visiting Student, Research Assistant Intern
+* 2020/02-Current: Computer Vision Engineer
+  * Guangzhou South Suerveying and Mapping, Ltd  
+* 2020/10-2021/01: Visiting Student, Research Assistant Intern
   * Institute of Computing Technology, Chinese Academy of Sciences
 
 

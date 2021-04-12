@@ -19,5 +19,5 @@ Hi, I am Chaoxing. I am a future PhD student in Department of Imaging and Interv
   
  **News**
    * One paper is accepted to IJCNN 2021 
-   * From August 2021, I will join the Department of Imaging and Interventional Radiology at the Chinese University of Hong Kong as a PhD student. Time to lern how to      build cool MRI system !   
+   * From August 2021, I will join the Department of Imaging and Interventional Radiology at the Chinese University of Hong Kong as a PhD student. Time to learn how to      build cool MRI system !   
   

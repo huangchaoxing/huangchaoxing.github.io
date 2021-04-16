@@ -1,4 +1,3 @@
-
 ---
 title: "Event-based Timestamp Image Encoding Network for Human Action Recognition and Anticipation"
 collection: publications

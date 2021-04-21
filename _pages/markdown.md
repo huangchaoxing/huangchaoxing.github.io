@@ -6,5 +6,5 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<img src="../images/he.jpg" width="40%">
+![](../images/he.jpg)
 He Art Museum in Shunde, Foshan

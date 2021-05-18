@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chaoxing. I am a future PhD student at the  Department of Imaging and Interventional Radiology, The Chinese University of Hong Kong. I am currently a computer vision engineer at Guangzhou South Surveying and Mapping. I was a visiting student for research intern at the Institute of Computing Technology, Chinese Academy of Sciences at Beijing, China. I obtained my master degree in machine learning and computer vision from the Australian National University, Canberra in 2020 and my Bsc degree in photonic from the South China Normal University, Guangzhou in 2018. 
+Hi, I am Chaoxing. I am a future PhD student at the  Department of Imaging and Interventional Radiology, The Chinese University of Hong Kong.  I obtained my master degree in machine learning and computer vision from the Australian National University, Canberra, in 2020 . In 2018, I earned my Bsc degree in photonic from the South China Normal University, Guangzhou. After graduation from ANU,  I was a visiting RA for research intern at the Institute of Computing Technology, Chinese Academy of Sciences at Beijing.  I also worked at Guangzhou South Surveying and Mapping, Ltd as a computer vision engineer. 
   
     
       

@@ -18,7 +18,8 @@ I obtained my master degree in machine learning and computer vision from the Aus
             
             
   
- **News**
+ **News**  
+   * One paper is accepted to MIDL 2022  
    * One paper is accepted to IJCNN 2021 
    * From August 2021, I will join the Department of Imaging and Interventional Radiology at the Chinese University of Hong Kong as a PhD student. Time to learn how to      build cool MRI system !   
   

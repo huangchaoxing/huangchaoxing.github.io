@@ -23,10 +23,4 @@ Work experience
   * Institute of Computing Technology, Chinese Academy of Sciences
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 

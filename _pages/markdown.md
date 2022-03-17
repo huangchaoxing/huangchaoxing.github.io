@@ -6,8 +6,5 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-## **He Art Museum in Shunde, Foshan**
-
-![](../images/he.jpg 50x50)    
-
+### **He Art Museum in Shunde, Foshan**
 <img src="../images/he.jpg" width="200">

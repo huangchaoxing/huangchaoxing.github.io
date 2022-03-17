@@ -10,3 +10,4 @@ redirect_from:
 
 ![](../images/he.jpg 50x50)    
 
+<img src="../images/he.jpg" width="200">

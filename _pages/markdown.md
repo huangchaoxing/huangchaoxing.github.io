@@ -8,5 +8,5 @@ redirect_from:
 ---
 ## **He Art Museum in Shunde, Foshan**
 
-![](../images/he.jpg)    
+![](../images/he.jpg 50x50)    
 

@@ -7,7 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 ### **He Art Museum in Shunde, Foshan**
-<img src="../images/he.jpg" width="200">                
+<img src="../images/he.jpg" width="200">      
+
+### **Party Pier at Pazhou, Guangzhou**
+<img src="../images/barjpg.jpg" width="200">
 
 ### **Rainbow train, East Railine,Hong Kong**
 <img src="../images/train.jpg" width="200">

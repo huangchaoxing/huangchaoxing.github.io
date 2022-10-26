@@ -8,3 +8,6 @@ redirect_from:
 ---
 ### **He Art Museum in Shunde, Foshan**
 <img src="../images/he.jpg" width="200">
+
+### **Rainbow train, East Railine,Hong Kong**
+<img src="../images/train.jpg" width="200">

@@ -23,5 +23,5 @@ Hi, I am Chaoxing. I am a PhD student at the  Department of Imaging and Interven
   
   
  **Selected Publications**  
- [1] Huang, C., Qian, Y., Yu, S. C. H., Hou, J., Jiang, B., Chan, Q., ... & Chen, W. (2022). Uncertainty-Aware Self-supervised Neural Network for Liver $T_ {1\rho}$ Mapping with Relaxation Constraint. (Accepted to Physics in Medicine & Biology )  
- [2] Huang, C., Qian, Y., Hou, J., Jiang, B., Chan, Q., Wong, V., ... & Chen, W. (2022). Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image. Medical Imaging with Deep Learning (MIDL) 2022 
+ [1] Huang, C., Qian, Y., Yu, S. C. H., Hou, J., Jiang, B., Chan, Q., ... & Chen, W. (2022). Uncertainty-Aware Self-supervised Neural Network for Liver $T_ {1\rho}$ Mapping with Relaxation Constraint. **(Accepted to Physics in Medicine & Biology )** 
+ [2] Huang, C., Qian, Y., Hou, J., Jiang, B., Chan, Q., Wong, V., ... & Chen, W. (2022). Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image. **Medical Imaging with Deep Learning (MIDL) 2022 **

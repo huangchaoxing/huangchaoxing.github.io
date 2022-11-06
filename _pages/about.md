@@ -23,7 +23,7 @@ Hi, I am Chaoxing. I am a PhD student at the  Department of Imaging and Interven
   
   
  **Selected Publications**  
-   
+         
  #### Journal and Conference Full papers  
    
  [1] Huang, C., Qian, Y., Yu, S. C. H., Hou, J., Jiang, B., Chan, Q., ... & Chen, W. (2022). Uncertainty-Aware Self-supervised Neural Network for Liver $T_ {1\rho}$ Mapping with Relaxation Constraint. **(Accepted to Physics in Medicine & Biology )**   

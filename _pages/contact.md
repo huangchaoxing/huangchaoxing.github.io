@@ -1,5 +1,4 @@
 
----
 permalink: /markdown/
 title: "Interesting stuff"
 author_profile: true

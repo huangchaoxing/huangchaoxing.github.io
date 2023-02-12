@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chaoxing. I am a PhD student at the  Department of Imaging and Interventional Radiology, The Chinese University of Hong Kong. My currrent research is on the application of deep learning in quantitative MRI (qMRI).   
+Hi, I am Chaoxing. I am a PhD student at the  CUHK Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong. My currrent research is on the application of deep learning in quantitative MRI (qMRI).   
 
     
       

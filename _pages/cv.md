@@ -19,8 +19,6 @@ Work experience
 ======
 * 2021/02-2021/05: Computer Vision Engineer
   * Guangzhou South Suerveying and Mapping, Ltd  
-* 2020/10-2021/01: Visiting Student, Research Assistant Intern
-  * Institute of Computing Technology, Chinese Academy of Sciences
 
 
 

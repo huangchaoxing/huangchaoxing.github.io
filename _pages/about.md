@@ -18,6 +18,7 @@ Hi, I am Chaoxing. I am a PhD student at the  CUHK Lab of AI in Radiology (CLAIR
             
   
  **News**  
+   * 2023/10 One paper is accepted to Physics in Medicine & Biology(IF = 3.5, Acceptance Rate = 33%).  
    * 2023/04 One paper is accepted to EMBC 2023 (Oral)  
    * 2022/11 One paper is accepted to Physics in Medicine & Biology(IF = 4.174, Acceptance Rate = 34%).
    * 2022/03 One paper is accepted to MIDL 2022 (Poster)  

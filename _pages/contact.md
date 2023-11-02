@@ -12,5 +12,5 @@ redirect_from:
 ### **Party Pier at Pazhou, Guangzhou**
 <img src="../images/barjpg.jpg" width="200">
 
-### **Rainbow train, East Railine,Hong Kong**
+### **Rainbow train, East Railline,Hong Kong**
 <img src="../images/train.jpg" width="200">

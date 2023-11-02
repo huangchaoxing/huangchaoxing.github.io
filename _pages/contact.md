@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Interesting stuff"
+title: "Gallery"
 author_profile: true
 redirect_from: 
   - /md/

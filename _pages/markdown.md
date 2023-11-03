@@ -16,4 +16,8 @@ Party Pier at Pazhou, Guangzhou         |  Rainbow train, East Railline,Hong Kon
 :-------------------------:|:-------------------------:
 <img src="../images/barjpg.jpg" width="200"> | <img src="../images/train.jpg" width="200">
 
+Mclaren Vale, SA, Australia         |  Lake Ontario, Toronto, Canada
+:-------------------------:|:-------------------------:
+<img src="../images/mclaren.jpg" width="200"> | <img src="../images/toronto.jpg" width="200">
+
 

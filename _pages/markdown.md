@@ -17,3 +17,7 @@ redirect_from:
 
 ### **Wanshan Archipelago, South China Sea**
 <img src="../images/dongao.jpg" width="200">
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="../images/he.jpg" width="200"> | <img src="../images/dongao.jpg" width="200">

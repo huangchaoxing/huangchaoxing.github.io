@@ -6,18 +6,14 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-### **He Art Museum in Shunde, Foshan**
-<img src="../images/he.jpg" width="200">      
 
-### **Party Pier at Pazhou, Guangzhou**
-<img src="../images/barjpg.jpg" width="200">
 
-### **Rainbow train, East Railline,Hong Kong**
-<img src="../images/train.jpg" width="200">
-
-### **Wanshan Archipelago, South China Sea**
-<img src="../images/dongao.jpg" width="200">
-
-Solarized dark             |  Solarized Ocean
+He Art Museum in Shunde, Foshan          |  Wanshan Archipelago, South China Sea
 :-------------------------:|:-------------------------:
-<img src="../images/he.jpg" width="200"> | <img src="../images/dongao.jpg" width="200">
+<img src="../images/he.jpg" width="200"> | <img src="../images/dongao.jpg" width="200">  
+
+Party Pier at Pazhou, Guangzhou         |  Rainbow train, East Railline,Hong Kong
+:-------------------------:|:-------------------------:
+<img src="../images/barjpg.jpg" width="200"> | <img src="../images/train.jpg" width="200">
+
+

@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Interesting stuff"
+title: "Gallery"
 author_profile: true
 redirect_from: 
   - /md/
@@ -12,5 +12,8 @@ redirect_from:
 ### **Party Pier at Pazhou, Guangzhou**
 <img src="../images/barjpg.jpg" width="200">
 
-### **Rainbow train, East Railine,Hong Kong**
+### **Rainbow train, East Railline,Hong Kong**
 <img src="../images/train.jpg" width="200">
+
+### **Wanshan Archipelago, South China Sea**
+<img src="../images/dongao.jpg" width="200">

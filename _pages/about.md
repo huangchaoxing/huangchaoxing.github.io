@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chaoxing. I am a PhD student at the  CUHK Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong. My currrent research is on the application of deep learning in quantitative MRI (qMRI).   
+Hi, I am Chaoxing. I am a third-year PhD student at the  CUHK Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong. My currrent research is on the application of deep learning in quantitative MRI (qMRI).   
 
     
       
@@ -18,6 +18,7 @@ Hi, I am Chaoxing. I am a PhD student at the  CUHK Lab of AI in Radiology (CLAIR
             
   
  **News**  
+   * I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up.  
    * 2023/10 One paper is accepted to Physics in Medicine & Biology(IF = 3.5, Acceptance Rate = 33%).  
    * 2023/04 One paper is accepted to EMBC 2023 (Oral)  
    * 2022/11 One paper is accepted to Physics in Medicine & Biology(IF = 4.174, Acceptance Rate = 34%).

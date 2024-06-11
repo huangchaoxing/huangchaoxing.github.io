@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chaoxing. I am a third-year PhD student at the  CUHK Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong. My currrent research is on the application of deep learning in quantitative MRI (qMRI).   
+Hi, I am Chaoxing. I am a PhD student at the  CUHK Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong, expected to graduate in 2025 . My currrent research is on the application of deep learning in quantitative MRI (qMRI).  
+<span style="color:blue"> **I am actively looking for research position in both industry and academia (detailed <u>CV<\u>), feel free to drop me an email.** </span>  
 
     
       

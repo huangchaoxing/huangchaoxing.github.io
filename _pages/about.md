@@ -11,7 +11,8 @@ redirect_from:
 Hi, I am Chaoxing. I am a PhD student at the  CUHK Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong, expected to graduate in 2025 . My currrent research is on the application of deep learning in quantitative MRI (qMRI). 
 
   
- **<span style="color:red"> I am actively looking for research position in both industry and academia , feel free to drop me an email. </span>**  
+ **<span style="color:red"> I am actively looking for research position in both industry and academia, feel free to drop me an email. </span>**  
+ :email: ***chaoxing.huang@outlook.com***
 
    
  **<span style="color:purple"> You can find my [detailed CV here](https://github.com/huangchaoxing/huangchaoxing.github.io/blob/master/Resume_Chaoxing_huang.pdf). </span>**

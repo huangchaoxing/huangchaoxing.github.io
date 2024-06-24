@@ -25,7 +25,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
             
   
  **News**  
-   * （_I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up._)  
+   * _I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up._ 
    * 2023/10 One paper is accepted to Physics in Medicine & Biology(IF = 3.5, Acceptance Rate = 33%).  
    * 2023/04 One paper is accepted to EMBC 2023 (Oral)  
    * 2022/11 One paper is accepted to Physics in Medicine & Biology(IF = 4.174, Acceptance Rate = 34%).

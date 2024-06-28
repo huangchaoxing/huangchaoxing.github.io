@@ -15,7 +15,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
  ***<span style="color:blue">chaoxing.huang@outlook.com</span>***
 
    
- **<span style="color:purple"> You can find my [detailed CV here](https://github.com/huangchaoxing/huangchaoxing.github.io/blob/master/Resume_Chaoxing_huang.pdf). </span>**
+ 
 
     
       

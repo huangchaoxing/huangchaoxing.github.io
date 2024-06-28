@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2021/02-2021/05: Computer Vision Engineer
-  * Guangzhou South Suerveying and Mapping, Ltd  
+  * Guangzhou South Surveying and Mapping, Ltd  
 
 
 

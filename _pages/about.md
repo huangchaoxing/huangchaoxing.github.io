@@ -41,13 +41,13 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
      **<span style="font-size:0.7em;"> Chaoxing Huang, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
     
   *   <a href="https://ieeexplore.ieee.org/abstract/document/10340640" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Uncertainty-weighted Multi-tasking for T1ρ and T2 Mapping in the Liver with Self-supervised Learning</a>  EMBC 2023  
-  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
+  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**
 
  * <a href="https://iopscience.iop.org/article/10.1088/1361-6560/ac9e3e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Uncertainty-Aware Self-supervised Neural Network for Liver $T_ {1\rho}$ Mapping with Relaxation Constraint</a>  Physics in Medicine and Biology    
-  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Simon Chun-Ho Yu, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
+  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Simon Chun-Ho Yu, Jian Hou, Baiyan Jiang, Queenie Chan,Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**
 
 * <a href="https://proceedings.mlr.press/v172/huang22a.html" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image</a>  Medical Imaging with Deep Learning (MIDL) 2022   
-  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**  
+  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang,Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**  
  
  
 

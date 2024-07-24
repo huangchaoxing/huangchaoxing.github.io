@@ -35,7 +35,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
  **Selected Publications**   
          
  ***Journal and Conference Full papers***  
-  *<a href="https://iopscience.iop.org/article/10.1088/1361-6560/ad027e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;">An uncertainty aided framework for learning based liver T1ρ mapping and analysis</a>  
+  * <a href="https://iopscience.iop.org/article/10.1088/1361-6560/ad027e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;">An uncertainty aided framework for learning based liver T1ρ mapping and analysis</a>  
      **<span style="font-size:0.7em;"> Chaoxing Huang, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
   
  [2] Huang C, Qian Y, Hou J, et al. Uncertainty-weighted Multi-tasking for $ T_ {1\rho} $ and T $ _2 $ Mapping in the Liver with Self-supervised Learning.    <span style="color:blue">EMBC 2023 </span>  

@@ -32,16 +32,24 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
    * 2022/03 One paper is accepted to MIDL 2022 (Poster)  
   
   
- **Selected Publications**   
-         
- ***Journal and Conference Full papers***  
+ **Selected Publications**  
+ 
+  * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Preprint
+  **<span style="font-size:0.7em;"> Chaoxing Huang, Ziqiang Yu, Zijian Gao, Qiuyi Shen, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**  
+    
   * <a href="https://iopscience.iop.org/article/10.1088/1361-6560/ad027e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;">An uncertainty aided framework for learning based liver T1ρ mapping and analysis</a>  Physics in Medicine and Biology  
      **<span style="font-size:0.7em;"> Chaoxing Huang, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
-  *   <a href="https://iopscience.iop.org/article/10.1088/1361-6560/ad027e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Uncertainty-weighted Multi-tasking for T1ρ and T2 Mapping in the Liver with Self-supervised Learning</a>  EMBC 2023  
+    
+  *   <a href="https://ieeexplore.ieee.org/abstract/document/10340640" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Uncertainty-weighted Multi-tasking for T1ρ and T2 Mapping in the Liver with Self-supervised Learning</a>  EMBC 2023  
   **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
- [2] Huang C, Qian Y, Hou J, et al. Uncertainty-weighted Multi-tasking for $ T_ {1\rho} $ and T $ _2 $ Mapping in the Liver with Self-supervised Learning.    <span style="color:blue">EMBC 2023 </span>  
- [3] Huang, C., Qian, Y., Yu, S. C. H., Hou, J., Jiang, B., Chan, Q., ... & Chen, W. (2022). Uncertainty-Aware Self-supervised Neural Network for Liver $T_ {1\rho}$ Mapping with Relaxation Constraint.    <span style="color:blue">Physics in Medicine & Biology</span>   
- [4] Huang, C., Qian, Y., Hou, J., Jiang, B., Chan, Q., Wong, V., ... & Chen, W. (2022). Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image.   <span style="color:blue">Medical Imaging with Deep Learning (MIDL) 2022 </span> 
+
+ * <a href="https://iopscience.iop.org/article/10.1088/1361-6560/ac9e3e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Uncertainty-Aware Self-supervised Neural Network for Liver $T_ {1\rho}$ Mapping with Relaxation Constraint</a>  Physics in Medicine and Biology    
+  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Simon Chun-Ho Yu, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
+
+* <a href="https://proceedings.mlr.press/v172/huang22a.html" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image</a>  Medical Imaging with Deep Learning (MIDL) 2022   
+  **<span style="font-size:0.7em;"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**  
+ 
+ 
 
  **Work experience**  
  * 2021/02-2021/05  Computer vision engineer at [South Surveying and Mapping Ltd](https://www.southinstrument.com/index/index.html), Guangzhou

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me "
-excerpt: ":star2: About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,15 +23,15 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
             
             
   
- **:newspaper: News**  
-   * _I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up._ 
+ **News**  
+   * 2024/05 _I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up._ 
    * 2023/10 One paper is accepted to Physics in Medicine & Biology(IF = 3.5, Acceptance Rate = 33%).  
    * 2023/04 One paper is accepted to EMBC 2023 (Oral)  
    * 2022/11 One paper is accepted to Physics in Medicine & Biology(IF = 4.174, Acceptance Rate = 34%).
    * 2022/03 One paper is accepted to MIDL 2022 (Poster)  
   
   
- **:pencil: Selected Publications**  
+ **:Selected Publications**  
  
   * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Preprint  
   **<span style="font-size:0.7em;"> Chaoxing Huang, Ziqiang Yu, Zijian Gao, Qiuyi Shen, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**  

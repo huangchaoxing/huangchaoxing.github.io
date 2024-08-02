@@ -1,13 +1,12 @@
 ---
 permalink: /
 title: "About me "
-excerpt: "About me"
+excerpt: ":star2: About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology ([CLAIR](http://www.diir.cuhk.edu.hk/research/artificial-intelligence/)), the Chinese University of Hong Kong, expected to graduate in 2025 . My current research falls in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI). 
 
   
@@ -32,7 +31,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
    * 2022/03 One paper is accepted to MIDL 2022 (Poster)  
   
   
- **Selected Publications**  
+ **:pencil: Selected Publications**  
  
   * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Preprint  
   **<span style="font-size:0.7em;"> Chaoxing Huang, Ziqiang Yu, Zijian Gao, Qiuyi Shen, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**  

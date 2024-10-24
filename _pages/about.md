@@ -33,12 +33,14 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
   
  **Selected Publications**  
  
-  * <a href="https://arxiv.org/abs/2409.12600" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> A Systematic Post-Processing Approach for Quantitative T1ρ Imaging of Knee Articular Cartilage </a>  Preprint  
-  **<span style="font-size:0.7em;"> Junru Zhong, Yongcheng Yao, Fan Xiao, Tim-Yun Michael Ong, Ki-Wai Kevin Ho, Siyue Li, Chaoxing Huang, Queenie Chan, James F. Griffith, Weitian Chen</span>**
+
 
  * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Preprint  
   **<span style="font-size:0.7em;"> Chaoxing Huang, Ziqiang Yu, Zijian Gao, Qiuyi Shen, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**
-    
+   
+ * <a href="https://arxiv.org/abs/2409.12600" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> A Systematic Post-Processing Approach for Quantitative T1ρ Imaging of Knee Articular Cartilage </a>  Preprint  
+  **<span style="font-size:0.7em;"> Junru Zhong, Yongcheng Yao, Fan Xiao, Tim-Yun Michael Ong, Ki-Wai Kevin Ho, Siyue Li, Chaoxing Huang, Queenie Chan, James F. Griffith, Weitian Chen</span>**
+   
   * <a href="https://iopscience.iop.org/article/10.1088/1361-6560/ad027e/meta" style="color: blue; text-decoration: underline;text-decoration-style: solid;">An uncertainty aided framework for learning based liver T1ρ mapping and analysis</a>  Physics in Medicine and Biology  
      **<span style="font-size:0.7em;"> Chaoxing Huang, Vincent Wai-Sun Wong, Queenie Chan, Winnie Chiu-Wing Chu, Weitian Chen</span>**
     

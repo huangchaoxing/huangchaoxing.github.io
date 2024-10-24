@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-He Art Museum in Shunde, Foshan          |  Wanshan Archipelago, South China Sea
+He Art Museum in Shunde, Foshan         |  Wanshan Archipelago, South China Sea
 :-------------------------:|:-------------------------:
 <img src="../images/he.jpg" width="200"> | <img src="../images/dongao.jpg" width="200">  
 
@@ -16,8 +16,11 @@ Party Pier at Pazhou, Guangzhou         |  Rainbow train, East Railline,Hong Kon
 :-------------------------:|:-------------------------:
 <img src="../images/barjpg.jpg" width="200"> | <img src="../images/train.jpg" width="200">
 
-Mclaren Vale, SA, Australia         |  Lake Ontario, Toronto, Canada
+Mclaren Vale, SA, Australia             |  Lake Ontario, Toronto, Canada
 :-------------------------:|:-------------------------:
 <img src="../images/mclaren.jpg" width="200"> | <img src="../images/toronto.jpg" width="200">
 
+Dongya Building, Singapore             |   Macau scene at Zhuhai, New Shaptsz Moon 
+:-------------------------:|:-------------------------:
+<img src="../images/dongya.jpg" width="200"> | <img src="../images/macau.jpg" width="200">
 

@@ -36,7 +36,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
  
 
 
- * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Preprint  
+ * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Quantitative Imaging in Medicine and Surgery   
   **<span style="font-size:0.7em;"> Chaoxing Huang, Ziqiang Yu, Zijian Gao, Qiuyi Shen, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**
    
  * <a href="https://arxiv.org/abs/2409.12600" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> A Systematic Post-Processing Approach for Quantitative T1ρ Imaging of Knee Articular Cartilage </a>  Preprint  

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology ([CLAIR](http://www.diir.cuhk.edu.hk/research/artificial-intelligence/)), the Chinese University of Hong Kong, expected to graduate in 2025 . My current research falls in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI). 
+Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Kong, expected to graduate in 2025 . My current research falls in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI). 
 
   
  **<span style="color:red"> I am actively looking for research position in both industry and academia, feel free to contact me. </span>**  

@@ -57,7 +57,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the  CUHK Lab of AI in Radiology 
  
 
  **Work experience**  
- * 2021/02-2021/05  Image processing engineer at [South Surveying and Mapping Ltd](https://www.southinstrument.com/index/index.html), Guangzhou
+ * 2021/02-2021/05  Image processing engineer at South Surveying and Mapping Ltd, Guangzhou
    
   **Educations**  
   * 2018-2020 Master in Machine Learning and Computer Vision (with commendation), **The Australian National University**

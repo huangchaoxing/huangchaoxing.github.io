@@ -10,7 +10,7 @@ redirect_from:
 Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Kong, expected to graduate in 2025 . My current research falls in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI). 
 
   
- **<span style="color:red"> I am actively looking for research position in both industry and academia, feel free to contact me. </span>**  
+ **<span style="color:red"> I am actively looking for research position in the industry, feel free to contact me. </span>**  
  ***<span style="color:blue">chaoxing.huang@outlook.com</span>***
 
    
@@ -24,6 +24,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Ko
             
   
  **News**  
+   * 2025/05 I am going to have a digital poster at ISMRM 2025 at Honolulu, Hawaii (May 10th - May 15th), Let us catch up ! I am now on the job market and actively looking for R&D position in the industry, feel free to drop by. 
    * 2024/10 One paper is accepted to Quantitative Imaging in Medicine and Surgery. 
    * 2024/05 I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up.
    * 2023/10 One paper is accepted to Physics in Medicine & Biology(IF = 3.5, Acceptance Rate = 33%).  

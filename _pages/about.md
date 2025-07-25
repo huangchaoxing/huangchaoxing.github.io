@@ -24,6 +24,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Ko
             
   
  **News**  
+   * 2025/07 One paper is accepted to Magnetic Resonance in Medicine, a great honor to cooperate with my colleague <a href="https://junruzhong.com/" style="color: black; text-decoration: underline;text-decoration-style: solid;"> Junru Zhong </a> 
    * 2025/05 I am going to have a digital poster at ISMRM 2025 at Honolulu, Hawaii (May 10th - May 15th), Let us catch up ! I am now on the job market and actively looking for R&D position in the industry, feel free to drop by. 
    * 2024/10 One paper is accepted to Quantitative Imaging in Medicine and Surgery. 
    * 2024/05 I am going to have a power pitch presentation and digital poster at ISMRM 2024 at Singapore (May 4th - May 9th), looking forward to catching up.
@@ -37,7 +38,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Ko
  
 
 
- * <a href="https://arxiv.org/abs/2407.01926" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Quantitative Imaging in Medicine and Surgery   
+ * <a href="https://qims.amegroups.org/article/view/132364/html" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior</a>  Quantitative Imaging in Medicine and Surgery   
   **<span style="font-size:0.7em;"> Chaoxing Huang, Ziqiang Yu, Zijian Gao, Qiuyi Shen, Queenie Chan, Vincent Wai-Sun Wong, Winnie Chiu-Wing Chu, Weitian Chen</span>**
    
  * <a href="https://arxiv.org/abs/2409.12600" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> A Systematic Post-Processing Approach for Quantitative T1ρ Imaging of Knee Articular Cartilage </a>  Preprint  

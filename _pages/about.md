@@ -24,7 +24,7 @@ Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Ko
             
   
  **News**  
-   * 2025/07 I have passed my PhD thesis defense !  🎓  
+   * 2025/07 **I have passed my PhD thesis defense !** 🎓  
    * 2025/07 One paper is accepted to Magnetic Resonance in Medicine, a great honor to cooperate with my colleague <a href="https://junruzhong.com/" style="color: black; text-decoration: underline;text-decoration-style: solid;"> Junru Zhong </a>. 
    * 2025/05 I am going to have a digital poster at ISMRM 2025 at Honolulu, Hawaii (May 10th - May 15th), Let us catch up ! I am now on the job market and actively looking for R&D position in the industry, feel free to drop by. 
    * 2024/10 One paper is accepted to Quantitative Imaging in Medicine and Surgery. 

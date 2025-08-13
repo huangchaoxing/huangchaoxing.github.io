@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Chaoxing Huang. I am a PhD student at the Chinese University of Hong Kong, expected to graduate in 2025 . My current research falls in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI). 
+Hi, I am Chaoxing Huang. I am a PhD graduate from the Chinese University of Hong Kong. During my PhD, my research was in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI). 
 
   
  **<span style="color:red"> I am actively looking for research position in the industry, feel free to contact me. </span>**  

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Chaoxing Huang，a senior engineer at The Hong Kong Applied Science and Technology Research Institute (ASTRI). I did my PhD under the supervision of <a href="https://www.diir.cuhk.edu.hk/staff/weitian-chen/" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Weitian Chen </a> at CUHK Lab of AI in Radiology(<a href="https://www.diir.cuhk.edu.hk/research/artificial-intelligence/" style="color: blue; text-decoration-style: solid;"> CLAIR </a> ).   Before that I obtained my master's degree in machine learning and computer vision from the Australian National University and my bachelor's degree in opto-electronic from the South China Normal University.
+Hi, I am Chaoxing Huang，a senior engineer at The Hong Kong Applied Science and Technology Research Institute (ASTRI). I did my PhD under the supervision of <a href="https://www.diir.cuhk.edu.hk/staff/weitian-chen/" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Weitian Chen </a> at CUHK Lab of AI in Radiology(<a href="https://www.diir.cuhk.edu.hk/research/artificial-intelligence/" style="color: blue; text-decoration-style: solid;"> CLAIR </a> ).   Before that, I obtained my master's degree in machine learning and computer vision from the Australian National University and my bachelor's degree in opto-electronic from the South China Normal University.
           
             
             

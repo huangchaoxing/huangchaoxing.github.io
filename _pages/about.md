@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Chaoxing Huang. I am a PhD graduate from the Chinese University of Hong Kong. I did my PhD under the supervision of <a href="https://www.diir.cuhk.edu.hk/staff/weitian-chen/" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Weitian Chen </a> at CUHK Lab of AI in Radiology(<a href="https://www.diir.cuhk.edu.hk/research/artificial-intelligence/" style="color: blue; text-decoration-style: solid;"> CLAIR </a> ). My PhD research was in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI).         
+Hi, I am Chaoxing Huang. I am a senior engineer at The Hong Kong Applied Science and Technology Research Institute (ASTRI). I did my PhD under the supervision of <a href="https://www.diir.cuhk.edu.hk/staff/weitian-chen/" style="color: blue; text-decoration: underline;text-decoration-style: solid;"> Weitian Chen </a> at CUHK Lab of AI in Radiology(<a href="https://www.diir.cuhk.edu.hk/research/artificial-intelligence/" style="color: blue; text-decoration-style: solid;"> CLAIR </a> ). My PhD research was in deep learning and medical imaging, with particular focus on the application of deep learning in quantitative MRI (qMRI).         
           
             
             
   
  **News**  
+   * 2025/10 **I have joined Hong Kong ASTRI ** 💼
    * 2025/07 **I have passed my PhD thesis defense !** 🎓  
    * 2025/07 One paper is accepted to Magnetic Resonance in Medicine, a great honor to cooperate with my colleague <a href="https://junruzhong.com/" style="color: black; text-decoration: underline;text-decoration-style: solid;"> Junru Zhong </a>. 
    * 2025/05 I am going to have a digital poster at ISMRM 2025 at Honolulu, Hawaii (May 10th - May 15th), Let us catch up ! I am now on the job market and actively looking for R&D position in the industry, feel free to drop by. 

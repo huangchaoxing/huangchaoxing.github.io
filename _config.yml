@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Chaoxing Huang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chaoxing Huang"
+description              : &description "Personal website of Chaoxing Huang - engineer and researcher in medical imaging and AI."
 url                      : https://huangchaoxing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huangchaoxing/huangchaoxing.github.io"
@@ -62,28 +62,30 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : /images/profile_1.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Chaoxing Huang
+  links:
+    - "https://github.com/huangchaoxing"
+    - "https://scholar.google.com/citations?user=DFlMecAAAAAJ&hl=zh-CN"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : " "
+  name             : "Chaoxing Huang"
   avatar           : "profile_1.jpg"
-  bio              : "Senior engineer at ASTRI "
-  location         : "HONG KONG SAR, CHINA"
+  bio              : "Senior Engineer at ASTRI · Medical Imaging & AI"
+  location         : "Hong Kong SAR, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DFlMecAAAAAJ&hl=zh-CN"
   email            :
@@ -252,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -1,9 +1,8 @@
 # main links links
 main:
-  - title: "About me"
-    url: /about/
-    
-
-    
-  - title: "Miscellaneous"
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /#publications
+  - title: "Gallery"
     url: /markdown/

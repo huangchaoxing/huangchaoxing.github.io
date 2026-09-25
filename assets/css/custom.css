@@ -390,50 +390,107 @@ a:hover { color: var(--cx-accent-dark); }
 .cx-list__desc { font-size: 0.9rem; color: var(--cx-muted); margin-top: 0.15rem; line-height: 1.55; }
 
 /* ------------------------------ gallery ----------------------------- */
-/* ------------------------------ gallery ------------------------------ */
-.cx-gallery__intro {
-  margin: 0 0 1.6rem;
+/* --------------------------- floating gallery --------------------------- */
+.cx-float__hint {
+  margin: 0 0 1.2rem;
   color: var(--cx-muted);
-  font-size: 0.98rem;
+  font-size: 0.95rem;
 }
 
-/* 多列瀑布流：图片按自身比例自然撑开，不依赖绝对定位 / aspect-ratio，任何浏览器都能显示 */
-.cx-gallery {
-  columns: 2;
-  column-gap: 1.4rem;
+/* Fallback (no JS / reduced motion): plain two-column grid, photos always visible */
+.cx-float__stage {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.4rem;
 }
 
-.cx-gallery figure {
-  margin: 0 0 1.4rem;
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
+.cx-float__item {
+  margin: 0;
   background: var(--cx-surface);
   border: 1px solid var(--cx-border);
   border-radius: 14px;
   overflow: hidden;
   box-shadow: 0 10px 24px -16px rgba(24, 39, 90, 0.35);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-.cx-gallery figure:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 18px 32px -18px rgba(24, 39, 90, 0.45);
-}
-
-.cx-gallery figure a { display: block; }
-
-.cx-gallery figure img {
+.cx-float__item img {
   display: block;
   width: 100%;
   height: auto;
 }
 
-.cx-gallery figcaption {
+.cx-float__item figcaption {
+  position: relative;
   padding: 0.65rem 0.9rem 0.8rem;
   font-size: 0.88rem;
   color: var(--cx-muted);
   text-align: center;
+}
+
+.cx-float__link { display: none; }
+
+/* Drifting mode, enabled by JS */
+.cx-float.is-floating .cx-float__stage {
+  display: block;
+  position: relative;
+  height: 76vh;
+  min-height: 560px;
+  border: 1px solid var(--cx-border);
+  border-radius: var(--cx-radius);
+  background:
+    radial-gradient(circle at 18% 18%, rgba(36, 86, 214, 0.07), transparent 60%),
+    radial-gradient(circle at 82% 82%, rgba(36, 86, 214, 0.05), transparent 55%),
+    var(--cx-surface);
+  overflow: hidden;
+}
+
+.cx-float.is-floating .cx-float__item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 232px;
+  cursor: pointer;
+  will-change: transform;
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+  box-shadow: 0 14px 30px -20px rgba(24, 39, 90, 0.55);
+}
+
+.cx-float.is-floating .cx-float__item:hover { border-color: #c7d3ea; }
+
+.cx-float.is-floating .cx-float__item.is-paused {
+  border-color: var(--cx-accent);
+  box-shadow: 0 28px 52px -26px rgba(24, 39, 90, 0.7);
+}
+
+.cx-float.is-floating .cx-float__item figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 1.5rem 0.85rem 0.7rem;
+  text-align: left;
+  color: #ffffff;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  background: linear-gradient(to top, rgba(9, 14, 26, 0.92), rgba(9, 14, 26, 0));
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.28s ease, transform 0.28s ease;
+  pointer-events: none;
+}
+
+.cx-float.is-floating .cx-float__item.is-paused figcaption {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.cx-float.is-floating .cx-float__link {
+  display: inline-block;
+  margin-left: 0.4rem;
+  color: #bcd0ff;
+  text-decoration: underline;
+  white-space: nowrap;
 }
 
 /* ------------------------------ footer ------------------------------ */
@@ -464,7 +521,10 @@ a:hover { color: var(--cx-accent-dark); }
   .cx-hero__intro { margin-left: auto; margin-right: auto; }
   .cx-chips, .cx-hero__actions { justify-content: center; }
   .cx-cols { grid-template-columns: minmax(0, 1fr); }
-  .cx-gallery { columns: 1; }
+  .cx-float__stage { grid-template-columns: minmax(0, 1fr); }
+  .cx-float.is-floating .cx-float__stage { height: 78vh; min-height: 470px; }
+  .cx-float.is-floating .cx-float__item { width: 150px; }
+  .cx-float.is-floating .cx-float__item figcaption { font-size: 0.74rem; padding: 1.15rem 0.6rem 0.55rem; }
   .cx-card { padding: 1.3rem 1.25rem; }
   .cx-news__item { flex-direction: column; gap: 0.2rem; }
   .masthead__inner-wrap { padding: 0.5rem 1rem; }
